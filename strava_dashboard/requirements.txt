@@ -1,0 +1,6 @@
+ipywidgets
+stravalib
+matplotlib
+folium
+branca
+numpy
